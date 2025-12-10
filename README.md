@@ -184,8 +184,7 @@ You can now interact with the real-time chat app and start messaging!
 
 ![Login](/frontend/public/login.png)
 
-
-
+---
 
 
 
